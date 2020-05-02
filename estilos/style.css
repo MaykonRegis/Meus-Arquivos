@@ -8,11 +8,15 @@
 
  }
 
+ .lado {
+     float: right;
+ }
+
  main {
      background-color: white;
      width: 500px;
      margin: auto;
-     height: 400px;
+     
      box-shadow: 3px 3px 5px black;
      padding: 10px;
  }
